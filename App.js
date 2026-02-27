@@ -27,9 +27,9 @@ import Atividade07 from './src/atividades/atv07';
 
 // import Revisao01 from './src/revisao/rev01';
 
-import Revisao02 from './src/revisao/rev02';
-import Revisao03 from './src/revisao/rev03';
-import Revisao09 from './src/revisao/rev09';
+// import Revisao02 from './src/revisao/rev02';
+// import Revisao03 from './src/revisao/rev03';
+// import Revisao09 from './src/revisao/rev09';
 import Navegacao from './src/revisao/navegacao';
 
 export default function App() {
